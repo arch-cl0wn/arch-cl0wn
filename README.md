@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Shamoon and I write spaghetti code that works. I mainly program with Python, Javascript and Solidity. You could reach me through Discord (isidial#9711).
 
-[![Archie's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-cl0wn)](https://github.com/anuraghazra/github-readme-stats)
+[![Shamoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-cl0wn&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
