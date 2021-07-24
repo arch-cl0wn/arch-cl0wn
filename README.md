@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am Shamoon and I write spaghetti code that works. I mainly program with Python, Javascript and Solidity. You could reach me through Discord (isidial#9711).
 
-[![Shamoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-cl0wn&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Shamoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-cl0wn&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
